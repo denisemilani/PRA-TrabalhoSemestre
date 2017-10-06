@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1504044416 source:d:\dev\trabalho_pra\gerador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"header.h"
+
+1504043973 source:d:\dev\trabalho_pra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"menu.h"
+	"gerador.h"
+	"utils.h"
+
+1503765087 d:\dev\trabalho_pra\header.h
+	"gerador.h"
+
+1504042978 d:\dev\trabalho_pra\gerador.h
+
+1504037153 d:\dev\trabalho_pra\menu.h
+
+1504044399 source:d:\dev\trabalho_pra\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"utils.h"
+
+1504040364 d:\dev\trabalho_pra\utils.h
+
+1504040371 source:d:\dev\trabalho_pra\utils.c
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
